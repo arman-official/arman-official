@@ -54,16 +54,16 @@
 
 ## 📈 GitHub Stats
 
-![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=armangupta7489&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armangupta7489&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armangupta7489&theme=radical)
+![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arman-official&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-official&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arman-official&theme=radical)
 
 ---
 
 ## 🔥 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armangupta7489&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arman-official&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 
 ## 📃 My Contributions
 
-<img src="https://raw.githubusercontent.com/armangupta7489/armangupta7489/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/arman-official/arman-official/output/snake.svg" alt="Snake animation" />
 
 ---
 
