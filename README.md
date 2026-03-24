@@ -1,36 +1,54 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+I+am+Arman+👋;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+I+am+Arman+👋;Backend+Developer+|+Node.js+Enthusiast)](https://git.io/typing-svg)
 
-Passionate about building robust, scalable applications and extracting insights from data.
+🚀 Passionate Backend Developer focused on building scalable APIs, efficient systems, and real-world applications.
+
+---
 
 ## 🚀 About Me
-- I believe in continuous learning and staying updated with the latest technologies to deliver innovative digital solutions that make a difference.
+- 💻 Backend Developer skilled in designing REST APIs and server-side applications  
+- ⚡ Strong foundation in Data Structures & Problem Solving  
+- 🔄 Currently exploring system design & scalable architectures  
+- 🎯 Goal: Build impactful products that solve real-world problems  
 
-## 🛠️ My Skills
+---
 
-### Programming Languages
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Python Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+---
 
-### Tools & Technologies
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/OS-Linux/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-007396?style=for-the-badge&logo=gnubash&logoColor=white)
+### 🧪 Tools & Platforms
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-### Soft Skills
-![Communication](https://img.shields.io/badge/Communication-0078D4?style=for-the-badge&logo=google-meet&logoColor=white)
-![Group Discussion](https://img.shields.io/badge/Group%20Discussion-00897B?style=for-the-badge&logo=teams&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFC300?style=for-the-badge&logo=codeforces&logoColor=white)
-![Team Leadership](https://img.shields.io/badge/Team%20Leadership-FF6F00?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+---
+
+### 🧠 Core Concepts
+- REST API Design  
+- Authentication (JWT)  
+- MVC Architecture  
+- Database Design  
+- Error Handling & Middleware  
+- Basic System Design  
+
+---
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -39,7 +57,8 @@ Passionate about building robust, scalable applications and extracting insights 
 ![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=armangupta7489&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armangupta7489&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armangupta7489&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=armangupta7489&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 🔥 GitHub Activity Graph
 
@@ -47,30 +66,31 @@ Passionate about building robust, scalable applications and extracting insights 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armangupta7489&theme=react-dark&area=true&hide_border=true" />
 </p>
 
+---
 
-## Leetcode
+## 🧩 Projects (Highlight Backend Work)
+- 🔹 REST API for [Your Project Name]
+- 🔹 Authentication System using JWT
+- 🔹 CRUD App with MongoDB
+- 🔹 Scalable Backend Architecture (MVC Pattern)
+
+---
+
+## 💻 LeetCode
 
 [![LeetCode](https://leetcard.jacoblin.cool/Armangupta7489?theme=light&animation=true)](https://leetcode.com/Armangupta7489/)
 
-
-
-
+---
 
 ## 🔗 Connect with Me
-
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Armangupta7489-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Armangupta7489/)
 
-<br clear="both">
+---
 
-<h2 align="left">📃 My Contributions</h2>
-
-###
+## 📃 My Contributions
 
 <img src="https://raw.githubusercontent.com/armangupta7489/armangupta7489/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
-
-
-Thanks for visiting my profile, and feel free to reach out if you want to connect!
+✨ Thanks for visiting my profile! Let's build something amazing together 🚀
