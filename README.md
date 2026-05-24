@@ -56,14 +56,20 @@
 ---
 
 ## 🧠 Core Concepts
-- REST API Design  
-- JWT Authentication  
-- MVC Architecture  
-- Database Design  
-- Machine Learning Basics  
-- Data Structures & Algorithms  
-- Error Handling & Middleware  
-- Basic System Design  
+## 🧠 Core Concepts
+
+![DSA](https://img.shields.io/badge/Advanced_DSA-00599C?style=for-the-badge&logo=codeforces&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6DB33F?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![LLD](https://img.shields.io/badge/LLD-FF6F00?style=for-the-badge&logo=uml&logoColor=white)
+![HLD](https://img.shields.io/badge/HLD-0A66C2?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF4088?style=for-the-badge&logo=plotly&logoColor=white)
+
+![OS](https://img.shields.io/badge/Operating_System-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CN](https://img.shields.io/badge/Computer_Networks-1572B6?style=for-the-badge&logo=cisco&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OOPS](https://img.shields.io/badge/OOPS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
