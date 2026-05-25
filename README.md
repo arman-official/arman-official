@@ -12,7 +12,14 @@
 - 🎯 Goal: Build impactful products that solve real-world problems  
 
 ---
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/cartoon-geek-code_10308-205.jpg?w=2000">
+<p align="center">
+  <img 
+    alt="Coding" 
+    width="350" 
+    src="https://img.freepik.com/premium-vector/cartoon-geek-code_10308-205.jpg?w=2000"
+  />
+</p>
+---
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Programming Languages
